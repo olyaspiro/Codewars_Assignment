@@ -5,6 +5,6 @@ This repository contains simple Python solutions for three challenges.
   
 2. Second challenge converts a number into its string representation using Python's built-in str() function.
 
-3.Third challenge removes all spaces from a given string. It uses str.split() to break the string into parts and str.join() to reassemble them without spaces.
+3. Third challenge removes all spaces from a given string. It uses str.split() to break the string into parts and str.join() to reassemble them without spaces.
 
 Each of these problems is designed to practice basic Python syntax and common operations like conditionals, type conversion, and string manipulation.
